@@ -26,7 +26,7 @@ body {
 .site-wrapper {
     min-height: 100vh;
     max-width: 800px;
-    margin: auto 0;
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
 }
