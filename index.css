@@ -27,6 +27,8 @@ body {
 .site-wrapper {
     min-height: 100vh;
     display: flex;
+    max-width: 800px;
+    margin: 0 auto;
     flex-direction: column;
 }
 
